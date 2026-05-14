@@ -1,8 +1,9 @@
-Neural networks via Tensorflow to predict:
+Neural networks via TensorFlow to predict:
 
-- insurance charge.
+- [insurance charge](tf.insurance.ipynb).
+- [life expectancy](tf_expectancy.ipynb).
 
 Neural networks via PyTorch to predict:
 
-- apartment rent.
-- electric vehicle charging loads.
+- [apartment rent](tor_rent.ipynb).
+- [electric vehicle charging loads](pt_EVload.ipynb).
