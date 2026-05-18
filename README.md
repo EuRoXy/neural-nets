@@ -7,3 +7,4 @@ Neural networks via PyTorch to predict:
 
 - [apartment rent](tor_rent.ipynb).
 - [electric vehicle charging loads](pt_EVload.ipynb).
+- [hotel cancellations](pt_cancel_hotel.ipynb)
