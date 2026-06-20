@@ -9,4 +9,4 @@ Neural networks via PyTorch to predict:
 - [electric vehicle charging loads](pt_EVload.ipynb).
 - [hotel cancellations](pt_cancel_hotel.ipynb).
 - [tumor](pt_classi_img_tumor.ipynb) from microscopic **image classification**.
-- [classify IMDB movie reviews]().
+- [classify IMDB movie reviews](pt_IMDB_reviews.ipynb) with BERT Transformers.
